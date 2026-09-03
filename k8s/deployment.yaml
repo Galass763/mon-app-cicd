@@ -33,7 +33,7 @@ spec:
 
       - name: mon-app
 
-        image: galass763/mon-app:latest
+        image: galass763/mon-app:d0c3bf61165d4ac763bcb3c41d636cc4eef88292
 
         ports:
 
